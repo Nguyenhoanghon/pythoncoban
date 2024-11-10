@@ -1,0 +1,1 @@
+print("Example chapter 7 Except")
